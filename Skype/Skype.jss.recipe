@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest Skype disk image, builds a package, and uploads to the JSS.</string>
     <key>Identifier</key>
-    <string>com.github.jss-recipes.jss.Skype</string>
+    <string>com.github.dalmatian1231.jss.Skype</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -25,12 +25,12 @@
         <key>version</key>
         <string></string>
         <key>SELF_SERVICE_DESCRIPTION</key>
-        <string>Skype is a freemium voice over IP service and instant messaging client, currently developed by Microsoft-owned Skype Technologies.</string>
+        <string>Skype is a free voice over IP service and instant messaging client, currently developed by Microsoft-owned Skype Technologies.</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.Skype</string>
+    <string>com.github.dalmatian1231.pkg.Skype</string>
     <key>Process</key>
     <array>
         <dict>
